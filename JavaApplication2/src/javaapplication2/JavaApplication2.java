@@ -17,7 +17,7 @@ public class JavaApplication2 {
     public static void main(String[] args) {
         System.out.println("Hola");
         if(true)
-            System.out.println("mierda");
+            System.out.println("chopped");
         else
             System.out.println("caca");
         
